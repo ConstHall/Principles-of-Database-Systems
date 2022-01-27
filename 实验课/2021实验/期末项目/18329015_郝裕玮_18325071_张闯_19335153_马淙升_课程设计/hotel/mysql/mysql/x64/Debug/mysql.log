@@ -1,0 +1,3 @@
+﻿  mysql.cpp
+C:\Users\93508\Desktop\mysql\mysql\mysql.cpp(161,9): warning C4101: “time”: 未引用的局部变量
+  mysql.vcxproj -> C:\Users\93508\Desktop\mysql\x64\Debug\mysql.exe
